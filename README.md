@@ -1,0 +1,1 @@
+Piece of software that categorizes reviews on positive/negative/neutral based on the review's content. Developed as part of my Adaptive Intelligence module whilst studying at the University of Sheffield.
